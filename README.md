@@ -1,2 +1,2 @@
 # Task_Python
-[CV](CV.pdf)
+[](CV.pdf)
