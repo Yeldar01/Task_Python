@@ -1,2 +1,2 @@
 # Task_Python
-![](CV.pdf)
+[Резюме](CV.pdf)
